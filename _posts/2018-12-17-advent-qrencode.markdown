@@ -58,5 +58,5 @@ More colors? No problem! You can define custom foreground- and background colors
 $ qrencode -o - "QRCode Message" --foreground=00ff00 --background=0000ff | feh -
 ```
 
-For more information please read the [qrcode(1)
+For more information please read the [qrencode(1)
 manpage](https://man.voidlinux.org/qrencode).
